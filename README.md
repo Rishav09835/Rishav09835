@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav09835" alt="rishav09835" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Pointers in C++**
+- 🌱 I’m currently learning **DSA, Front-End Development**
 
 - 📫 How to reach me **dobriyal756@gmail.com**
 
