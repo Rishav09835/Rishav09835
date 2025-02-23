@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishav Dobriyal</h1>
+<h1 align="center">Hola 👋, I'm Rishav Dobriyal</h1>
 <h3 align="center">A final-year BTech undergrad from India with a knack for problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav09835&label=Profile%20views&color=0e75b6&style=flat" alt="rishav09835" /> </p>
